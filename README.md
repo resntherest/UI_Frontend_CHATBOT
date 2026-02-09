@@ -8,10 +8,10 @@ It manages the user interface, user input, and the display of responses from a w
 The images below serve as **visual proof of a functional chatbot interface**, showing what the application looks like while the chatbot is running and responding correctly.
 
 ### Chatbot Interface – View 1
-![AI-Powered Academic Performance Predictor UI – View 1](./UI.png)
+![AI-Powered Academic Performance Predictor UI – View 1](./react-frontend/src/UI.png)
 
 ### Chatbot Interface – View 2
-![AI-Powered Academic Performance Predictor UI – View 2](./UI2.png)
+![AI-Powered Academic Performance Predictor UI – View 2](./react-frontend/src/UI2.png)
 
 ## Description
 
